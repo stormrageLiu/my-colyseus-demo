@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "ColyseusTest",
+  "uuid": "6e212a3e-06c8-49d0-88a4-b21fa41cff37",
+  "id": "36ed2613-998a-4896-a9ab-18045dfa8e42",
+  "isNew": false
+}
